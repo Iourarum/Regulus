@@ -1,3 +1,5 @@
+![](Regulus_BusinessCard2.png)
+
 ## Regulus - Riemannian Embeddings and Graphs Unified for Large-scale, Uncharted Single-cells 
 
 ###### <b>Important Note:</b> <i>This is a novel R library under active development, designed for work involving incredibly large omics datasets and profoundly detailed data analysis through advanded mathematical techniques without overlapping with the existing R eco-system, but building upon it. Currently not-released yet and under active development. To find out more about it please keep reading below.</I>
